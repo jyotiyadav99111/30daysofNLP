@@ -16,5 +16,6 @@ Below is the content of everyday work:
 5) Day5: Famous libraries used for NLP tasks: NLTK, Gensim, textblob, StanfordNLP, Spacy
 
 6) Day6: Basic Text Analysis: Tokenizers, Work frequency
-       ![basic9](https://user-images.githubusercontent.com/30169240/120928883-29cc8d00-c704-11eb-87e1-f89a8038d2d3.PNG)
+
+![basic9](https://user-images.githubusercontent.com/30169240/120928883-29cc8d00-c704-11eb-87e1-f89a8038d2d3.PNG)
 
