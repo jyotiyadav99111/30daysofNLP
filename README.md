@@ -22,3 +22,5 @@ Below is the content of everyday work:
 7) Day7: N-grams: exampels, application, probability aspect of n-grams, codes
 
 ![Untitled drawing](https://user-images.githubusercontent.com/30169240/120988895-98f5c000-c79c-11eb-9a3f-e847e04330b9.png)
+
+8) Day8: Unigram model: text preprocessing, text analysis, training of the model
