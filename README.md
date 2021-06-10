@@ -24,3 +24,14 @@ Below is the content of everyday work:
 ![Untitled drawing](https://user-images.githubusercontent.com/30169240/120988895-98f5c000-c79c-11eb-9a3f-e847e04330b9.png)
 
 8) Day8: Unigram model: text preprocessing, text analysis, training of the model
+
+9) Day9: Unigram model: Model Evaluation mathematics and probabilites expalined
+
+![unigram_part2_5](https://user-images.githubusercontent.com/30169240/121573051-6b31a500-ca42-11eb-8e4a-4e56c830752e.PNG)
+
+10) Day10: Text analysis of test data, evaluation results, effect of 's' on average log-likelihood
+
+![unigram_part_3_1](https://user-images.githubusercontent.com/30169240/121573078-72f14980-ca42-11eb-8cf6-70c28fc1c70b.PNG)
+
+
+
