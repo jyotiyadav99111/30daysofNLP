@@ -33,5 +33,12 @@ Below is the content of everyday work:
 
 ![unigram_part_3_1](https://user-images.githubusercontent.com/30169240/121573078-72f14980-ca42-11eb-8cf6-70c28fc1c70b.PNG)
 
+11) Day11: Bigram theories and change in probabilites calculation 
+
+12) Day12: Result and observation comparison from unigram and bi-gram models
+
+![bigram_part2_1](https://user-images.githubusercontent.com/30169240/121784323-06588500-cbd1-11eb-90c6-e4ceae272e5f.PNG)
+
+
 
 
